@@ -41,7 +41,7 @@ Este repositório contém o projeto final da disciplina de Mineração de Dados,
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https:https://github.com/Reneress/Projeto_Mestrado.git
    cd nome-do-repositorio
   
 ## Contribuições
